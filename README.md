@@ -2,7 +2,7 @@
 
 Group Members :-
 
-* Nethu Nipuna M.
-* Abeywardhanage S.R.D
 * V.G.A.P Kumara
+* Abeywardhanage S.R.D
+* Nethu Nipuna M.
 * Tharuka Gayashan F.
